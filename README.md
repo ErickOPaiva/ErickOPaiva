@@ -1,4 +1,4 @@
-<img align="right" height="375" src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif"  />
+<img align="right" height="285" src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif"  />
 
 <img align="right" height="220" src="https://media.tenor.com/f7M_6Ou3TIAAAAAi/pokemon-red-red-sprite.gif"  />
 
