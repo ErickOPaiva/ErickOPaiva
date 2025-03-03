@@ -1,9 +1,9 @@
 <video align="right" height="285" autoplay loop muted>
-  <source src="https://github.com/ErickOPaiva/ErickOPaiva/raw/main/assets/charizard.mp4" type="video/mp4">
+  <source src="https://imgur.com/gallery/pokemon-charizard-Eb6f6pt" type="video/mp4">
 </video>
 
 <video align="right" height="220" autoplay loop muted>
-  <source src="https://github.com/ErickOPaiva/ErickOPaiva/raw/main/assets/red.mp4" type="video/mp4">
+  <source src="https://imgur.com/gallery/pokemon-red-rlQRZzE" type="video/mp4">
 </video>
 
 <div align="center">
