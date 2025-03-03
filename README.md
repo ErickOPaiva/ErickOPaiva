@@ -1,6 +1,10 @@
-<img align="right" height="285" src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif"  />
+<video align="right" height="285" autoplay loop muted>
+  <source src="./assets/charizard.mp4" type="video/mp4">
+</video>
 
-<img align="right" height="220" src="https://media.tenor.com/f7M_6Ou3TIAAAAAi/pokemon-red-red-sprite.gif"  />
+<video align="right" height="220" autoplay loop muted>
+  <source src="./assets/red.mp4" type="video/mp4">
+</video>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/érick-paiva-ba95ba245/" target="_blank">
