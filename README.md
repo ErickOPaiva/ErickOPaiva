@@ -1,7 +1,7 @@
-<video align="right" height="175" autoplay loop muted> <source src="https://giphy.com/gifs/ljyLMSvnnROiln5CRF" type = "video/mp4">
+<video align="right" height="175" autoplay loop muted> <source src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl6ZHkxdmUwNm5wYnhwZmJrczVnbTJxbW5lbHdxN2VkbTNkMGU0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ljyLMSvnnROiln5CRF/giphy.gif" type = "video/mp4">
 </video>
 
-<video align="right" height="120" autoplay loop muted> <source src="https://giphy.com/gifs/moaq3A5dOJTejG778S" type = "video/mp4">
+<video align="right" height="120" autoplay loop muted> <source src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZjbGIwNWU5ZHFrdmVhN3h4emgzaDh6Z2xhZ20xd21zOTBoYXRoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/moaq3A5dOJTejG778S/giphy.gif" type = "video/mp4">
 </video>
 
 <div align="center">
