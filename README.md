@@ -1,9 +1,9 @@
 <video align="right" height="175" autoplay loop muted>
-  <source src="https://media.giphy.com/media/ljyLMSvnnROiln5CRF/giphy.mp4" type="video/mp4">
+  <source src="https://i.imgur.com/ncSc80C.mp4" type="video/mp4">
 </video>
 
 <video align="right" height="120" autoplay loop muted>
-  <source src="https://media.giphy.com/media/moaq3A5dOJTejG778S/giphy.mp4" type="video/mp4">
+  <source src="https://i.imgur.com/kTeOwIO.mp4" type="video/mp4">
 </video>
 
 <div align="center">
