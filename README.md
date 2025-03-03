@@ -11,10 +11,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickOPaiva.ErickOPaiva&"  />
-</div>
-
 <h1 align="center"></h1>
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
