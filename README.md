@@ -1,9 +1,9 @@
 <video align="right" height="285" autoplay loop muted>
-  <source src="assets/charizard.mp4" type="video/mp4">
+  <source src="https://github.com/ErickOPaiva/ErickOPaiva/raw/main/assets/charizard.mp4" type="video/mp4">
 </video>
 
 <video align="right" height="220" autoplay loop muted>
-  <source src="/assets/red.mp4" type="video/mp4">
+  <source src="https://github.com/ErickOPaiva/ErickOPaiva/raw/main/assets/red.mp4" type="video/mp4">
 </video>
 
 <div align="center">
