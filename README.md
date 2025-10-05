@@ -1,6 +1,4 @@
-<img align="right" height="275" src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif"  />
-
-<img align="right" height="220" src="https://media.tenor.com/f7M_6Ou3TIAAAAAi/pokemon-red-red-sprite.gif"  />
+# 👋 Olá! Eu sou o Érick Paiva
 
 <div align="center">
   <a href="https://www.linkedin.com/in/érick-paiva-ba95ba245/" target="_blank">
@@ -11,48 +9,106 @@
   </a>
 </div>
 
-<h1 align="center"></h1>
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-<p align="left">Duque de Caxias, Rio de Janeiro<br><br>- 💻 Análise e Desenvolvimento de Sistemas<br>- 📚 Faculdade Unopar (Cursando 3º Semestre)<br>- 🎮 Criador de Jogos<br>- 🎙  Músico</p>
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-<h3 align="left"></h3>
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickOPaiva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
+  
+*Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.*
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+📍 **Duque de Caxias, Rio de Janeiro**
+
+💻 **Análise e Desenvolvimento de Sistemas**  
+📚 Faculdade Unopar (Cursando 4º Semestre)
+
+🎮 **Criador de Jogos**  
+🎵 **Músico**
+
+---
+
+## 🛠️ Minhas Stacks
+
+<div align="center">
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Ferramentas & Tecnologias
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErickOPaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickOPaiva&layout=compact&theme=dracula" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ErickOPaiva&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickOPaiva&theme=dracula&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Contribuições
+
+<div align="center">
+  
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickOPaiva&theme=dracula)
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Me chama no [LinkedIn](https://www.linkedin.com/in/érick-paiva-ba95ba245/) ou confira meus repositórios aqui no GitHub!
+
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ErickOPaiva.ErickOPaiva)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Aprendizado contínuo e crescimento constante"*
+
+**Obrigado pela visita!** ✨
+
 </div>
