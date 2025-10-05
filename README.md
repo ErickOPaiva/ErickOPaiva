@@ -13,7 +13,7 @@
 
 <div align="center">
   
-*Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.*
+*Desenvolvedor apaixonado por tecnologia, inovação, automação e práticas boas de código e algoritmos.*
 
 </div>
 
