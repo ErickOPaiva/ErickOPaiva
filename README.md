@@ -25,8 +25,11 @@
 
 💻 **Análise e Desenvolvimento de Sistemas**  
 📚 Faculdade Unopar (Cursando 4º Semestre)
+
 📜 Análise de Dados em Python (Unopar)
+
 📜 Desenvolvimento Full-Stack em Java (Santander)
+
 📜 Programação de Sensores e IoT (Unopar)
 
 🎮 **Criador de Jogos**  
